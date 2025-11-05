@@ -1,2 +1,12 @@
 # curp_generador_c
-Programa en c para generar el curp de una persona.
+Este programa pide los datos de una persona para generar su curp.
+
+## Características
+- Manejo de estructuras (`struct`)
+- Uso de librerías propias (`mauro.h`, `my_string.h`)
+- Generacion de homoclave
+
+## Compilación
+Compilar con:
+```bash
+g++ MDAG_CURP.cpp -o MDAG_CURP.exe
