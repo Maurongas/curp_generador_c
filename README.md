@@ -10,3 +10,9 @@ Este programa pide los datos de una persona para generar su curp.
 Compilar con:
 ```bash
 g++ MDAG_CURP.cpp -o MDAG_CURP.exe
+
+Autor
+
+Mauro Daniel Arango Gómez
+Universidad Autónoma de Baja California (UABC)
+Ingeniería en Software y Tecnologías Emergentes
